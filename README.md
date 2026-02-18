@@ -4,7 +4,7 @@ A dedicated IoT solution designed to monitor storage conditions for 3D printing 
 
 ---
 
-## 🌡️ Why It Matters
+## Why It Matters
 Moisture is the enemy of high-quality 3D prints. This project helps you:
 * **Prevent Stringing & Bubbles:** Identify when filament needs drying.
 * **Monitor Dryboxes:** Real-time tracking of internal humidity in sealed containers.
@@ -12,7 +12,7 @@ Moisture is the enemy of high-quality 3D prints. This project helps you:
 
 ---
 
-## 🚀 Features
+## Features
 * **Sensor:** **DHT22** — High-accuracy capacitive humidity and temperature sensor.
 * **Microcontroller:** STM32F103C8Tx.
 * **Local Display:** Support for I2C OLED (SH1106) to check status at a glance.
