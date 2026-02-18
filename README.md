@@ -13,7 +13,7 @@ Moisture is the enemy of high-quality 3D prints. This project helps you:
 ---
 
 ## Features
-* **Sensor:** **DHT22** — High-accuracy capacitive humidity and temperature sensor.
+* **Sensor:** DHT22 High-accuracy capacitive humidity and temperature sensor.
 * **Microcontroller:** STM32F103C8Tx.
 * **Local Display:** Support for I2C OLED (SH1106) to check status at a glance.
 * **Power:** Powered by Li-Po accumulator with charger TP4056 USB-C
