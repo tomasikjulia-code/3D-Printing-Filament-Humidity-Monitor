@@ -1,6 +1,6 @@
 # 3D Printing Filament Humidity Monitor
 
-A dedicated IoT solution designed to monitor storage conditions for 3D printing filaments. Using the **DHT22** sensor, this board ensures your hygroscopic materials stay within the optimal humidity range to prevent printing defects.
+Board designed to monitor storage conditions for 3D printing filaments. Using the **DHT22** sensor, this board ensures your hygroscopic materials stay within the optimal humidity range to prevent printing defects.
 
 ---
 
