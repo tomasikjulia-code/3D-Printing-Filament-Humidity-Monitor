@@ -18,5 +18,5 @@ Moisture is the enemy of high-quality 3D prints. This project helps you:
 * **Local Display:** Support for I2C OLED (SH1106) to check status at a glance.
 * **Power:** Powered by Li-Po accumulator with charger TP4056 USB-C
 
-
+<img src="Zdjęcia urządzenia/PCB_board.png" alt="Filament Monitor Board" width="400">
 
